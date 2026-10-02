@@ -2,4 +2,4 @@ Team Members
 
 Developer A
 Developer B
-Developer C
+Developer C - Remote
