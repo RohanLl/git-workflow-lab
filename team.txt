@@ -3,3 +3,4 @@ Team Members
 Developer A
 Developer B
 Developer C - Local
+Developer C - Remote
