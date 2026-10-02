@@ -6,3 +6,4 @@ Status: Development
 
 Feature: Remote update
 Feature: Pull practise
+Feature: Divergence practice
