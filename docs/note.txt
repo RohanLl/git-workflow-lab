@@ -1,0 +1,10 @@
+Git Learning Notes
+
+Local repository:
+A Git repository stored on our computer.
+
+Remote repository:
+A Git repository stored somewhere else, such as GitHub.
+
+origin:
+The conventional name given to the main remote.

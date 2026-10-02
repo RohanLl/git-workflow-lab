@@ -1,0 +1,6 @@
+Main Application
+
+This is the main application file.
+
+Feature 1: User login
+Feature 2: Dashboard
