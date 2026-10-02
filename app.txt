@@ -1,5 +1,7 @@
 Application: Git Workflow Lab
 
-Version: 1.0
+Version: 1.1
 
 Status: Development
+
+Feature: Remote update
